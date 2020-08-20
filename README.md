@@ -16,6 +16,8 @@
 ## AWESOME Training VDO
 
 # Scala
+* Functional Programming Principles in Scala - https://www.coursera.org/learn/progfun1
+* Code from Functional Programming Principles in Scala - https://github.com/matthewcarroll/Functional-Programming-Principles-In-Scala
 * Scala (ft. Martin Odersky) - https://www.youtube.com/watch?v=5LeG9O6FL_E
 * Lambda World 2019 - Implicits Revisited - Martin Odersky - https://www.youtube.com/watch?v=uPd9kJq-Z8o
 * IEEE Computer Society - Episode 62: Martin Odersky on Scala - https://www.youtube.com/watch?v=1NaXtfQMYbo
